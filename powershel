@@ -1,0 +1,2 @@
+psql --version
+pg_dump --version
